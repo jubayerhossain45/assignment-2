@@ -1,0 +1,17 @@
+.banner-container {
+    background-image: url('/assets/hero-bg.png');
+    background-position: center;
+}
+
+.about-content,
+.why-choose,
+.feature,
+.host-section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+footer{
+    background-image: url('/assets/footer-bg.png');
+    background-position: center;
+}
